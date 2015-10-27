@@ -26,7 +26,7 @@ bruteforce
 back
 
 target
-set target http://target
+set target http://dom
 back
 
 start
